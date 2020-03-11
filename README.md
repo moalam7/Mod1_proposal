@@ -1,4 +1,4 @@
-I have two proposals, let me know which one you guys recommend. Thank you!
+I have two proposals, let me know which one you guys recommend. Thank you! If you open the wireframe images in a new tab, they are presented in the correct orientation instead of counterclockwise!
 
 Proposal #1:
 
