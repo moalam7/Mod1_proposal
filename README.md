@@ -1,3 +1,5 @@
+I have two proposals, let me know which one you guys recommend. Thank you!
+
 Proposal #1:
 
 PerScholasMon
