@@ -9,4 +9,3 @@ Other features:
 -Sprites, game loop, etc.
 
 ![alt text](https://raw.githubusercontent.com/momoalam7/Mod1_proposal/master/assets/proposal2_wireframe.jpg "Proposal 2")
-
